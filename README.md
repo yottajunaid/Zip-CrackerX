@@ -23,6 +23,18 @@ To run this program, you need:
   - filedialog: For selecting the zip file and wordlist in the GUI version.
   - messagebox: For displaying warnings and messages in the GUI version.
 
+## Installation
+```bash
+git clone https://github.com/yottajunaid/Zip-CrackerX.git
+ls
+cd Zip-CrackerX
+python main.py
+```
+For GUI version
+```bash
+python gui_version.py
+```
+
 ## Usage
 
 ### CLI Version
