@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ZipCrackerX%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Follow%20me%20on%20Instagram%20by%20@YOTTAJUNAID&descAlignY=51&descAlign=62)
+<p align="center"><img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue"/>
+
 # Zip-CrackerX
 ☠️☠️☠️ A Zip file cracker programmed in Python with CLI as well as GUI. It is compatible to crack zip file having "Zip Legacy Encryption" by using Bruteforce. ☠️☠️☠️
 
@@ -66,5 +69,8 @@ The GUI window will open, allowing you to select the zip file and wordlist and s
 
 This program is intended for educational and research purposes only. Unauthorized use of this program to gain unauthorized access to password-protected zip files is illegal and unethical. The author takes no responsibility for any misuse of this program.
 
+## ©️ Copyright Message
+Copyright © [yottajunaid]
 
+All rights reserved. This Python project, along with its code, documentation, and any associated files, is the intellectual property of YOTTAJUNAID. You may not reproduce, distribute, or modify the contents of this repository without explicit permission from the owner.
 
